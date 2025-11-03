@@ -3,7 +3,7 @@ import { Store } from 'lucide-react';
 import { supabase, Product } from './lib/supabase';
 import { ProductCard } from './components/ProductCard';
 
-const WHATSAPP_NUMBER = '1234567890';
+const WHATSAPP_NUMBER = '7729871453';
 
 function App() {
   const [products, setProducts] = useState<Product[]>([]);
